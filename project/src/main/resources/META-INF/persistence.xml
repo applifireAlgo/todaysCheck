@@ -76,6 +76,7 @@
     <class>project.app.shared.customers.AppCustomerType</class>
     <class>project.app.shared.customers.AppCustomerCategory</class>
     <class>project.app.shared.customers.AppCustomer</class>
+    <class>project.app.shared.defaultdomain.TestEntity</class>
     </persistence-unit>
 
 </persistence>
